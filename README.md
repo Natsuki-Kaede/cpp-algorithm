@@ -1,2 +1,3 @@
 # cpp-algorithm
-A algorithm repo for study.
+
+DOCS:[note.flymc.cc](https://note.flymc.cc)
